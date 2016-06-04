@@ -38,6 +38,7 @@ gem 'mini_magick', '~> 4.5', '>= 4.5.1'
 gem 'will_paginate', '~> 3.1'
 gem 'bootstrap-will_paginate', '~> 0.0.10'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
+gem 'fog', '~> 1.38'
 
 
 group :development, :test do
